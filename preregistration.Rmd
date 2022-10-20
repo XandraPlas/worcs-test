@@ -24,7 +24,7 @@ output: prereg::prereg_pdf
 
 <!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
 
-**Yes**, we already collected the data in a group of military personnel aged 25-88. Data was collected over a period of 10 years. Measurements were done pre-deployment, 1 month after, 6 months after, 1 year after, 2 years after, 5 years after and 10 years after deployment. Resulting in a total of 7 measurement/time points. On every time point multiple questionnaires were completed.
+**Yes**, we already collected the data in a group of military personnel aged 25 to 88. Data was collected over a period of 10 years. Measurements were done pre-deployment, 1 month after, 6 months after, 1 year after, 2 years after, 5 years after and 10 years after deployment. Resulting in a total of 7 measurement/time points. On every time point multiple questionnaires were completed.
 
 ## Hypothesis
 
